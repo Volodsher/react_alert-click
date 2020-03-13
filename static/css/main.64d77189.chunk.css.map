@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,SACE,wBAA+B,CAC/B,cAAe,CACf,kBAAmB,CACnB,WAAY,CACZ,aACF","file":"main.64d77189.chunk.css","sourcesContent":[".myAlert {\n  background-color: paleturquoise;\n  font-size: 50px;\n  border-radius: 50px;\n  width: 300px;\n  margin: 0 auto;\n}\n"]}
